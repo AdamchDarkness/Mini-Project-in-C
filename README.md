@@ -7,3 +7,5 @@ This is a mini application that has several interfaces
 2-manager interface (the manager account is created by the admin). 
 3-user interface (to create a user account type 0). 
 I do not spoil you all the options available, the code is fully detailed in French with comments (if you ever want an English version tell me).
+If you want to change file don't forget to replace the "a" by "w" and vice versa.
+
