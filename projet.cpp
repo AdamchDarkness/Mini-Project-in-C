@@ -569,7 +569,7 @@ menuge()
 		do
 	{
 		system("cls");
-		gotoxy(35,2);printf("Menu Admin");
+		gotoxy(35,2);printf("Menu Gerant");
 		gotoxy(15,4);printf("1-Saise film");
 		gotoxy(15,6);printf("2-Consultaion film");
 		gotoxy(15,8);printf("3-Consultaion client");
